@@ -1,1 +1,1 @@
-This is jonas doe resume update in branch addFilter.
+This is jonas doe resume intentional merge conflict.
