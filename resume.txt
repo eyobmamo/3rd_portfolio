@@ -1,1 +1,3 @@
-This is jonas doe resume  addFilter.
+
+This is jonas doe resume intentional merge conflict.
+
